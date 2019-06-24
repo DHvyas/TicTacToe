@@ -100,7 +100,6 @@ def cpu_play():
 # In[67]:
 
 
-global game_status
 input_player()
 while(game_status==1):
     input_info()
